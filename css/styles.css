@@ -1,0 +1,181 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#title{
+  background-color: #f84762;
+  color: white;
+  margin-top: -1%;
+
+ 
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid{
+  padding: 3% 15% 8%;
+}
+.navbar{
+  padding:0 0 5rem;
+}
+
+h3{
+ font-weight: 800;
+ font-size: xx-large;
+}
+h2{
+  font-family: 'Montserrat', bold;
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 1.5;
+ 
+   
+ 
+}
+p{
+  color: rgb(113, 105, 105);
+}
+
+.a{
+  font-family: 'Montserrat', bold;
+    font-size: 3.2rem;
+    font-weight:bold;
+    letter-spacing: 1px;
+
+  }
+
+.navbar-brand{
+  font-size: 2.4rem;
+  font-weight: bolder;
+  
+}
+.nav-item{
+  padding: 0 16px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0%;
+}
+.title-image{
+  width: 60%;
+  position: absolute;
+  rotate:calc(25deg);
+  top: -10%;
+  right: 100px;
+  
+}
+
+#features{
+  padding : 7% 15%;
+  z-index: 1;
+  position: relative;
+  background-color: white;
+}
+.feature-box{
+ 
+  padding: 5%;
+  z-index: 1;
+}
+
+.icon{
+  color: #e97667;
+  margin-bottom: 1.5rem;
+}
+ .icon:hover{
+  color: #f84762;
+  }
+
+  #testimonials{
+    padding: 7% 15%;
+   
+    background-color: #e97667;
+    color: white;
+  }
+
+  .carousel-item{
+    padding: 7% 14%; 
+  }
+
+  .testimonial-image {
+width: 10%;
+border-radius: 100% ;
+margin: 25px;
+  }
+
+  #press{
+    background-color: #e97667;
+    
+    padding-bottom: 3%;
+
+  }
+
+  .press-log{
+    width: 12%;
+    margin: 20px 20px 50px ;
+   
+
+  }
+
+  #pricing{
+    padding: 100px;
+  
+    
+  }
+  .pricing-column{
+    padding: 3% 3% ;
+  
+   
+  }
+
+ 
+
+    .title-image{
+    position: static;
+    transform: rotate(0);
+    }
+  
+
+  #cta{
+   
+    background-color:#f84762;
+    color: white;
+    padding: 10% ;
+   
+  }
+  .buts{
+  
+  position: relative;
+  margin-left: 1%;
+   }
+   .last{
+    font-weight: 800;
+    font-size: 70px;
+    
+   }
+
+   #footer{
+    padding : 10% 15%;
+    background-color: white;
+   
+   
+   }
+
+  
+  .txt{
+ 
+    font-size: 15px;
+    margin-bottom: 10%;
+    margin-top: 5%;
+   }
+   .social{
+    margin: 10px 20px;
+   }
+
+   .plans{
+    text-align: center;
+   }
